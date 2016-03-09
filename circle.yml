@@ -1,0 +1,9 @@
+machine:
+  timezone:
+    Asia/Tokyo
+  pre:
+    - echo foo
+  post:
+    - echo bar
+  ruby:
+    version: 2.2.0p0
