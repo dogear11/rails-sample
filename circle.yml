@@ -6,4 +6,4 @@ machine:
   post:
     - echo bar
   ruby:
-    version: 2.2.0p0
+    version: 2.1.3
